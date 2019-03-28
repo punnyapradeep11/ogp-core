@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "ogp-core-app-executor",
+    "name": "ogp-core-app",
+    "region": "us-east-1"
+  }
+}
